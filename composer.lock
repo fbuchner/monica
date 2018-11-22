@@ -1880,16 +1880,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v5.7.13",
+            "version": "v5.7.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "3ff3110ac14f2b4876acaff289bb55a1af74f02e"
+                "reference": "ad6c1fe1e455c0f73a431928282704879ccbd856"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/3ff3110ac14f2b4876acaff289bb55a1af74f02e",
-                "reference": "3ff3110ac14f2b4876acaff289bb55a1af74f02e",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/ad6c1fe1e455c0f73a431928282704879ccbd856",
+                "reference": "ad6c1fe1e455c0f73a431928282704879ccbd856",
                 "shasum": ""
             },
             "require": {
@@ -2020,7 +2020,7 @@
                 "framework",
                 "laravel"
             ],
-            "time": "2018-11-07T12:41:02+00:00"
+            "time": "2018-11-21T13:46:08+00:00"
         },
         {
             "name": "laravel/passport",
@@ -3143,16 +3143,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "1.35.0",
+            "version": "1.36.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "3c0342ed6cb7c770d0c33595c51c286716552f65"
+                "reference": "f5e9fa283fa389ffa49e58391a02f063dcdd1815"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/3c0342ed6cb7c770d0c33595c51c286716552f65",
-                "reference": "3c0342ed6cb7c770d0c33595c51c286716552f65",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/f5e9fa283fa389ffa49e58391a02f063dcdd1815",
+                "reference": "f5e9fa283fa389ffa49e58391a02f063dcdd1815",
                 "shasum": ""
             },
             "require": {
@@ -3197,7 +3197,7 @@
                 "datetime",
                 "time"
             ],
-            "time": "2018-11-14T12:39:51+00:00"
+            "time": "2018-11-16T11:47:11+00:00"
         },
         {
             "name": "nette/caching",
@@ -4700,16 +4700,16 @@
         },
         {
             "name": "psr/log",
-            "version": "1.0.2",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-fig/log.git",
-                "reference": "4ebe3a8bf773a19edfe0a84b6585ba3d401b724d"
+                "reference": "6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-fig/log/zipball/4ebe3a8bf773a19edfe0a84b6585ba3d401b724d",
-                "reference": "4ebe3a8bf773a19edfe0a84b6585ba3d401b724d",
+                "url": "https://api.github.com/repos/php-fig/log/zipball/6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd",
+                "reference": "6c001f1daafa3a3ac1d8ff69ee4db8e799a654dd",
                 "shasum": ""
             },
             "require": {
@@ -4743,7 +4743,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10T12:19:37+00:00"
+            "time": "2018-11-20T15:27:04+00:00"
         },
         {
             "name": "psr/simple-cache",
@@ -8822,12 +8822,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "fd696a6dc1b30ec46ec4ca16831ca24ef22bb970"
+                "reference": "d71acf1340f7fb24b3469a892c130263c08e0a43"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/fd696a6dc1b30ec46ec4ca16831ca24ef22bb970",
-                "reference": "fd696a6dc1b30ec46ec4ca16831ca24ef22bb970",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/d71acf1340f7fb24b3469a892c130263c08e0a43",
+                "reference": "d71acf1340f7fb24b3469a892c130263c08e0a43",
                 "shasum": ""
             },
             "conflict": {
@@ -8902,6 +8902,7 @@
                 "paragonie/random_compat": "<2",
                 "paypal/merchant-sdk-php": "<3.12",
                 "phpmailer/phpmailer": ">=5,<5.2.27|>=6,<6.0.6",
+                "phpoffice/phpspreadsheet": "<=1.5",
                 "phpunit/phpunit": ">=4.8.19,<4.8.28|>=5.0.10,<5.6.3",
                 "phpwhois/phpwhois": "<=4.2.5",
                 "phpxmlrpc/extras": "<0.6.1",
@@ -9010,7 +9011,7 @@
                 }
             ],
             "description": "Prevents installation of composer packages with known security vulnerabilities: no API, simply require it",
-            "time": "2018-11-16T03:31:38+00:00"
+            "time": "2018-11-21T13:18:22+00:00"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",
